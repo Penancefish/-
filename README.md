@@ -1,3 +1,11 @@
 # -
 第一次玩^-^
-> helloworld
+```cpp
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"hello world"<<endl;
+  return 0;
+}
+```
