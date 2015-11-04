@@ -1,7 +1,9 @@
-# -
+﻿# -
 第一次玩^-^
+
 ```cpp
 #include<iostream>
+#include<cstdio>
 using namespace std;
 int main()
 {
